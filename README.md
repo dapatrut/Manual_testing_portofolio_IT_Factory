@@ -38,5 +38,29 @@
    </head>
    ```
   
-  
-  
+1. Open the file containing the Linux mascot.
+2. Marvel at its beauty.
+
+    ![3.PNG](/assets/images/tux.png)
+   
+3. Close the file.
+
+| Syntax | Description |
+| --- | ----------------- |
+| Header | Title |
+
+
+
+| Paragraph | Text |
+
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
+
+
+
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
+

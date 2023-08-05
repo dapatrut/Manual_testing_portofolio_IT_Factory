@@ -4,6 +4,8 @@
 ---
 *Playground* is a ***suite*** of **Selenium and RoboBrowser** automated tests for [Orange_HRM](https://opensource-demo.orangehrmlive.com/web/index.php/auth/login).
 
+*Playground* is a ***suite*** of **Selenium and RoboBrowser** automated tests for [Orange_HRM](https://opensource-demo.orangehrmlive.com/web/index.php/auth/login "The best search engine for privacy").
+
 > Dorothy followed her through many of the beautiful rooms in her castle.
 >
 > The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
@@ -63,4 +65,17 @@
 - [x] Write the press release
 - [ ] Update the website
 - [ ] Contact the media
+
+
+
+![Tux, the Linux mascot](/1.GIF)
+
+<img src="/1.GIF" width="150" height="50">
+
+
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header  shdxjhzhhzd    | Title   zjhgjtryj    | Here's this rzjjjtgfdgdfhtgjhfxgusdhfxhgshgdhdgcufhdjzggdfgSFVhcvhvchjdhjvbdhjvbhjbdvhjfdbjhfdf jhdbfhsB fdshjGB   |
+| Paragraph zjzd  | Text  dhxtjryjh      | And more      |
+
 

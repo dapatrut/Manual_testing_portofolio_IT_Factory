@@ -1,4 +1,4 @@
-# Proiect-final-Testare-Manuala-ITF
+# Manual-testing-portofolio
 &nbsp;
 ### Introduction
 ---

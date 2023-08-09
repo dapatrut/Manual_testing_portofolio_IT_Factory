@@ -10,7 +10,7 @@ Tools used: JIRA and Zephyr Squad.
 
 # Functional specifications
 
-The application chosen by me for testing is https://opensource-demo.orangehrmlive.com/web/index.php/admin/viewSystemUsers, the "Admin" module: "User Management" and "Job" sections.
+The application chosen by me for testing is [Orange_HRM](https://opensource-demo.orangehrmlive.com/web/index.php/auth/login), the "Admin" module: "User Management" and "Job" sections.
 
 The test project was created using the Jira tool. It contains two epics, one for the "User Management" section, with the requirement to verify the functionality to administer users as an Admin, and the second one for the "Job" section, in which all the information related to the "Job" field can be accessed and assigned to users.
 
@@ -45,10 +45,26 @@ The plan identifies the items to be tested, the features to be tested, the types
   - Tests not in scope: performance testing, integrations of the "Admin" module with other modules, compatibility testing with multiple browsers.
 
 ### 1.1.5 Risks detected
+  - Project risks: lack of experience of the QA team, short deadline of Zephyr Squad trial.
+  - Product risks: validation constraints on the fields might be too restrictive to the end-user.
 
+### 1.1.6 Evaluating entry criteria
+The entry criteria defined in the Test Planning phase have been achieved and the test process can continue.
 
+### 1.1.7 Bug Report
+Bug reports are created in order to provide the development team and the project managers with exhaustive information about the discovered defects. They are helpful in determining causes of the errors and correcting them.
 
+## 1.2 Test Monitoring and Control
+It will be done by generating periodic reports that reflect the current status of the test.
 
+## 1.3 Test Analysis
+The testing process will be executed based on the above requirements for the "User Management" and "Job" sections. The following test conditions were found:
+
+Leave mandatory fields empty and check that the "Shift Name" on "Work Shifts" subsection cannot be added;
+Adding an attachment;
+Checking text fields with both valid and invalid values (positive and negative testing);
+Checking check boxes functionality;
+Checking the correct operation of "Reset" button;
 
 
 

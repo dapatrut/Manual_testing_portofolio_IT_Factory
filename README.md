@@ -60,11 +60,50 @@ It will be done by generating periodic reports that reflect the current status o
 ## 1.3 Test Analysis
 The testing process will be executed based on the above requirements for the "User Management" and "Job" sections. The following test conditions were found:
 
-Leave mandatory fields empty and check that the "Shift Name" on "Work Shifts" subsection cannot be added;
-Adding an attachment;
-Checking text fields with both valid and invalid values (positive and negative testing);
-Checking check boxes functionality;
-Checking the correct operation of "Reset" button;
+  - Enter data for all available fields and verify that the admin user is added;
+  - Leave mandatory fields empty and check that the "Shift Name" on "Work Shifts" subsection cannot be added;
+  - Adding an attachment;
+  - Checking text fields with both valid and invalid values (positive and negative testing);
+  - Checking check boxes functionality;
+  - Checking the correct operation of "Reset" button;
+  - Check the maxim characters for text fields in "Job" section.
+
+## 1.4 Test Design
+Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases are: boundary value analysis, equivalence partitioning and use case testing.
+
+Test cases:
+
+The test cases with steps can be viewed here:
+
+
+## 1.5 Test Implementation
+The following elements are needed to be ready before the test execution phase begins:
+
+  - Testing environment is up and running: [Orange_HRM](https://opensource-demo.orangehrmlive.com/web/index.php/auth/login)
+  - Access to the testing environment is given: Username: Admin | Password: admin123
+  - Cycle summary was created
+  - Test cases were added to the cycle summary.
+
+## 1.6 Test Execution
+
+  - Test cases are executed on the created test Cycle Summary:
+    
+  - Bugs have been created based on the failed tests. The complete bug reports can be found here:
+    
+List of Bugs:
+
+  - Full regression testing is needed after the bugs are fixed.
+
+## 1.7 Test Completion
+  - Exit criteria were evaluated and passed
+  - The traceability matrix was generated and can be found here: 
+  - Test execution chart was generated, the final report shows that a number 6 tests have failed of a total of 24
+  - A number of 24 test cases were planned for execution and all of them were executed
+  - A number of 6 total bugs were found, from which the priority is: 2 are high, 2 are medium and 2 are low.
+
+
+
+
 
 
 

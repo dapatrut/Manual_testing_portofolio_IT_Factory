@@ -25,7 +25,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 ### 1.1.1 Roles assigned to the project and persons allocated
   - Project manager - Dan Calinici
   - Product owner - Mihai Ionescu
-  - Software developer - Ionut Moldovan
+  - Software developer - Bogdan Andonescu
   - QA Engineer - Daniela Patrut
 
 ### 1.1.2 Entry criteria defined:
@@ -73,9 +73,9 @@ Functional test cases were created in Zephyr Squad. Based on the analysis of the
 
 Test cases:
 
+![test_cases](test_cases.GIF)
 
-The test cases with steps can be viewed here:
-
+The test cases with steps can be viewed here: ![Test cases+Steps](test_cases_with_steps.xlsx)
 
 ## 1.5 Test Implementation
 The following elements are needed to be ready before the test execution phase begins:
@@ -87,108 +87,23 @@ The following elements are needed to be ready before the test execution phase be
 
 ## 1.6 Test Execution
 
-  - Test cases are executed on the created test Cycle Summary:
+  - Test cases are executed on the created test Cycle Summary.
     
-  - Bugs have been created based on the failed tests. The complete bug reports can be found here:
-    
-List of Bugs:
+Tests were executed in Jira:
+![cycle_summary](cycle_summary.GIF)
+
+  - Bugs have been created based on the failed tests. The complete bug reports can be found here: ![created_bugs](all_bugs.pdf)
 
   - Full regression testing is needed after the bugs are fixed.
 
 ## 1.7 Test Completion
   - Exit criteria were evaluated and passed
-  - The traceability matrix was generated and can be found here: 
+  - The traceability matrix was generated and can be found here: ![traceability_matrix](traceability_matrix.xlsx)
   - Test execution chart was generated, the final report shows that a number 6 tests have failed of a total of 24
   - A number of 24 test cases were planned for execution and all of them were executed
   - A number of 6 total bugs were found, from which the priority is: 2 are high, 2 are medium and 2 are low.
 
+![text_execution_by_cycle](test_execution.GIF)
 
-
-
-
-
-
-
-
-
-
-&nbsp;
-### Introduction
----
-*Playground* is a ***suite*** of **Selenium and RoboBrowser** automated tests for [Orange_HRM](https://opensource-demo.orangehrmlive.com/web/index.php/auth/login).
-
-*Playground* is a ***suite*** of **Selenium and RoboBrowser** automated tests for [Orange_HRM](https://opensource-demo.orangehrmlive.com/web/index.php/auth/login "The best search engine for privacy").
-
-> Dorothy followed her through many of the beautiful rooms in her castle.
->
-> The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
-> > The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.   
-
-1. First item
-2. Second item
-3. Third item
-5. Fourth item
-
-1. First item
-2. Second item
-3. Third item
-    1. Indented item
-    2. Indented item
-4. Fourth item
-
-- First item
-- Second item
-    - hello
-- Third item
-    - Indented item
-    - Indented item
-- Fourth item
-  - sal
-
-
-```
-<html>
-   <head>
-     <title>Test</title>
-   </head>
-   ```
-  
-1. Open the file containing the Linux mascot.
-2. Marvel at its beauty.
-
-    ![3.PNG](/assets/images/tux.png)
-   
-3. Close the file.
-
-| Syntax | Description |
-| --- | ----------------- |
-| Header | Title |
-
-
-
-| Paragraph | Text |
-
-| Syntax      | Description | Test Text     |
-| :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
-
-
-
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
-
-
-
-![Tux, the Linux mascot](/1.GIF)
-
-<img src="/1.GIF" width="150" height="50">
-
-
-| Syntax      | Description | Test Text     |
-| :---        |    :----:   |          ---: |
-| Header  shdxjhzhhzd    | Title   zjhgjtryj    | Here's this rzjjjtgfdgdfhtgjhfxgusdhfxhgshgdhdgcufhdjzggdfgSFVhcvhvchjdhjvbdhjvbhjbdvhjfdbjhfdf jhdbfhsB fdshjGB   |
-| Paragraph zjzd  | Text  dhxtjryjh      | And more      |
 
 

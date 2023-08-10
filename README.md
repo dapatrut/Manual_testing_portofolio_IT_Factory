@@ -73,6 +73,7 @@ Functional test cases were created in Zephyr Squad. Based on the analysis of the
 
 Test cases:
 
+
 The test cases with steps can be viewed here:
 
 

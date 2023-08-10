@@ -98,7 +98,7 @@ Tests were executed in Jira:
 
 ## 1.7 Test Completion
   - Exit criteria were evaluated and passed
-  - The traceability matrix was generated and can be found here: ![traceability_matrix]()
+  - The traceability matrix was generated and can be found here: ![traceability_matrix](traceability_matrix.xlsx)
   - Test execution chart was generated, the final report shows that a number 6 tests have failed of a total of 24
   - A number of 24 test cases were planned for execution and all of them were executed
   - A number of 6 total bugs were found, from which the priority is: 2 are high, 2 are medium and 2 are low.

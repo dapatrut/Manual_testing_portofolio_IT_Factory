@@ -61,7 +61,7 @@ It will be done by generating periodic reports that reflect the current status o
 The testing process will be executed based on the above requirements for the "User Management" and "Job" sections. The following test conditions were found:
 
   - Enter data for all available fields and verify that the admin user is added;
-  - Leave mandatory fields empty and check that the "Shift Name" on "Work Shifts" subsection cannot be added;
+  - Leave mandatory fields empty and check that the name of the work shifts cannot be added;
   - Adding an attachment;
   - Checking text fields with both valid and invalid values (positive and negative testing);
   - Checking check boxes functionality;

@@ -75,7 +75,7 @@ Test cases:
 
 ![test_cases](test_cases.GIF)
 
-The test cases with steps can be viewed here: ![Test cases+Steps](test_cases_with_steps.xlsx)
+The test cases with steps can be viewed here: ![Test cases+Steps]()
 
 ## 1.5 Test Implementation
 The following elements are needed to be ready before the test execution phase begins:

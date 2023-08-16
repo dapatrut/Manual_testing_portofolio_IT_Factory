@@ -92,7 +92,7 @@ The following elements are needed to be ready before the test execution phase be
 Tests were executed in Jira:
 ![cycle_summary](cycle_summary.GIF)
 
-  - Bugs have been created based on the failed tests. The complete bug reports can be found here: ![created_bugs](all_bugs.pdf)
+  - Bugs have been created based on the failed tests. The complete bug reports can be found here: ![created_bugs]()
 
   - Full regression testing is needed after the bugs are fixed.
 
